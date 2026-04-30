@@ -2,7 +2,7 @@
 url: "https://brownwilsonattorneys.com"
 pageType: "home"
 title: "Brown and Wilson Attorneys, Dickson TN, Bankruptcy and Personal Injury and Divorce and Criminal Attornies in Dickson Tennessee"
-extractedAt: "2024-12-19T22:59:54.537Z"
+extractedAt: "2024-12-19T22:30:12.000Z"
 ---
 
 # Brown and Wilson Attorneys
@@ -35,11 +35,14 @@ Brown and Wilson Attorneys, Dickson TN, Bankruptcy, Attornies in Dickson Tenness
 
 ## Contact Information
 
-Brown and Wilson Attorneys • 302-1/2 North Main Street • Dickson, Tennessee 37055 • (615)446-4027
+Brown and Wilson Attorneys  
+302-1/2 North Main Street  
+Dickson, Tennessee 37055  
+(615)446-4027
 
-[Contact Us](https://www.brownwilsonattorneys.com/Brown-and-Wilson-Attorneys.htm)
+---
 
-*This page uses frames, but your browser doesn't support them.*
+*Note: This page uses frames, but your browser doesn't support them.*
 
 ## Images
 - ![arrow](https://www.brownwilsonattorneys.com/images/arrow.gif)

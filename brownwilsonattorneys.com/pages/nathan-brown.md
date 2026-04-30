@@ -2,18 +2,15 @@
 url: "https://www.brownwilsonattorneys.com/nathan_brown.htm"
 pageType: "team"
 title: "Brown and Wilson Attorneys, Dickson TN, Bankruptcy and Personal Injury and Divorce and Criminal Attornies in Dickson Tennessee"
-extractedAt: "2024-12-19T21:35:38.782Z"
+extractedAt: "2024-12-19T23:12:58.000Z"
 ---
 
-# Nathan T. Brown
+# Nathan T. Brown • Brown and Wilson Attorneys
 
-## Brown and Wilson Attorneys
-
-### Navigation
+## Navigation
 - [Home](https://www.brownwilsonattorneys.com/main.htm) | [Bankruptcy](https://www.brownwilsonattorneys.com/bankruptcy.htm) | [Other Practices](https://www.brownwilsonattorneys.com/otherpractices.htm) | [Contact Us](https://www.brownwilsonattorneys.com/Brown-and-Wilson-Attorneys.htm)
 
 ### Practice Areas
-- [Home](https://www.brownwilsonattorneys.com/main.htm)
 - Bankruptcy
   - [Chapter 13](https://www.brownwilsonattorneys.com/bankruptcy.htm)
   - [Chapter 7](https://www.brownwilsonattorneys.com/bankruptcy.htm)
@@ -31,14 +28,9 @@ extractedAt: "2024-12-19T21:35:38.782Z"
 ### Staff
 - [Lisa • Donna • Melissa](https://www.brownwilsonattorneys.com/staff.htm)
 
-### Contact
-- [Contact Us](https://www.brownwilsonattorneys.com/Brown-and-Wilson-Attorneys.htm)
-
-## Attorney Profile
+## Nathan T. Brown
 
 ![Nathan T. Brown](https://www.brownwilsonattorneys.com/images/brown-small.jpg)
-
-**Nathan T. Brown**
 
 Nathan received a Bachelor of Science degree from Austin Peay State University in 1975, and received a Doctor of Jurisprudence degree from the University of Tennessee College of Law in 1978.
 

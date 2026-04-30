@@ -2,15 +2,18 @@
 url: "https://www.brownwilsonattorneys.com/roy-wilson.htm"
 pageType: "team"
 title: "Brown and Wilson Attorneys, Dickson TN, Bankruptcy and Personal Injury and Divorce and Criminal Attornies in Dickson Tennessee"
-extractedAt: "2024-12-19T15:44:47.580Z"
+extractedAt: "2024-12-19T23:28:06.000Z"
 ---
 
 # Brown and Wilson Attorneys
 
 ## Navigation
-- [Home](https://www.brownwilsonattorneys.com/main.htm) | [Bankruptcy](https://www.brownwilsonattorneys.com/bankruptcy.htm) | [Other Practices](https://www.brownwilsonattorneys.com/otherpractices.htm) | [Contact Us](https://www.brownwilsonattorneys.com/Brown-and-Wilson-Attorneys.htm)
+
+[Home](https://www.brownwilsonattorneys.com/main.htm) | [Bankruptcy](https://www.brownwilsonattorneys.com/bankruptcy.htm) | [Other Practices](https://www.brownwilsonattorneys.com/otherpractices.htm) | [Contact Us](https://www.brownwilsonattorneys.com/Brown-and-Wilson-Attorneys.htm)
 
 ### Practice Areas
+
+- [Home](https://www.brownwilsonattorneys.com/main.htm)
 - Bankruptcy
   - [Chapter 13](https://www.brownwilsonattorneys.com/bankruptcy.htm)
   - [Chapter 7](https://www.brownwilsonattorneys.com/bankruptcy.htm)
@@ -46,7 +49,8 @@ He is a member of the American Bankruptcy Institute, the National Association of
 **\*** Statistics as of January 23, 2004
 
 ## Contact Information
+
 Brown and Wilson Attorneys • 302-1/2 North Main Street • Dickson, Tennessee 37055 • (615)446-4027
 
 ## Images
-- ![Roy N. Wilson](https://www.brownwilsonattorneys.com/images/wilson-small.jpg)
+- ![](https://www.brownwilsonattorneys.com/images/wilson-small.jpg)

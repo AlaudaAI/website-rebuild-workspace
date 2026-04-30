@@ -2,13 +2,14 @@
 url: "https://www.brownwilsonattorneys.com/nathan_brown.htm"
 pageType: "team"
 title: "Brown and Wilson Attorneys, Dickson TN, Bankruptcy and Personal Injury and Divorce and Criminal Attornies in Dickson Tennessee"
-extractedAt: "2024-12-19T23:12:58.000Z"
+extractedAt: "2024-12-19T21:17:56.176Z"
 ---
 
 # Nathan T. Brown • Brown and Wilson Attorneys
 
 ## Navigation
-- [Home](https://www.brownwilsonattorneys.com/main.htm) | [Bankruptcy](https://www.brownwilsonattorneys.com/bankruptcy.htm) | [Other Practices](https://www.brownwilsonattorneys.com/otherpractices.htm) | [Contact Us](https://www.brownwilsonattorneys.com/Brown-and-Wilson-Attorneys.htm)
+
+[Home](https://www.brownwilsonattorneys.com/main.htm) | [Bankruptcy](https://www.brownwilsonattorneys.com/bankruptcy.htm) | [Other Practices](https://www.brownwilsonattorneys.com/otherpractices.htm) | [Contact Us](https://www.brownwilsonattorneys.com/Brown-and-Wilson-Attorneys.htm)
 
 ### Practice Areas
 - Bankruptcy
